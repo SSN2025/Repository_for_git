@@ -1,2 +1,2 @@
 This is my first story to be written while using git. Hope all goes well:
-On a cold winter morning, I walked down the street with my brother to buy some milk.
+On a cold winter morning, I walked down the street with my brother to buy some milk and bread for breakfast. We both were dressed in heavy winter clothing,
